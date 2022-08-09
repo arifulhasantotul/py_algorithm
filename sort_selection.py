@@ -1,6 +1,4 @@
 def selection_sort(arr):
-    temp = None
-    index_min = None
     for i in range(len(arr)):
         index_min = i
         for j in range(i + 1, len(arr)):
