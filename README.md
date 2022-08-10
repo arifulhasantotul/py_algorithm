@@ -8,3 +8,9 @@ Common algorithm solved by python
 - Selection sort
 - Merge sort
 - Quick sort
+
+### Complexity graph:
+![Graph pic](/images/time_complexity.png)
+
+### Complexity table
+![Table pic](/images/chart.jpg)
